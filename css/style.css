@@ -2,3 +2,6 @@ body {
     font-family:sans-serif;
     color: #888;
 }
+div {
+    border: 1px solid #ccc;
+}
